@@ -9,6 +9,10 @@ The WAV I/O, atomic saving, deterministic directory discovery, and processing
 report conventions follow the author's
 [`audio-dsp-toolkit`](https://github.com/DowneWasDreaming/audio-dsp-toolkit).
 
+For complete signatures, parameter meanings, return values, exceptions, and
+examples for every public interface, see the
+[API reference](docs/API_REFERENCE.md).
+
 ## Dimension convention
 
 - Array filtering accepts `[time]` or `[..., time]`.
